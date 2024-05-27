@@ -10,17 +10,26 @@ Table of Content
         To get a local copy up and running follow these simple steps.
 
 Prerequisites
-You need these on your computer before you start
+        You need these on your computer before you start
 
-npm
-Install npm by following these instructions: Get npm
-
+            npm
+        
 Expo CLI
-    npm install --global expo-cli
+       
+        npm install --global expo-cli
+
+
 Installation
-    Clone the repo
-    git clone https://github.com/github_username/repo_name.git
+        
+        Clone the repo
+        git clone https://github.com/github_username/repo_name.git
+
+
 Install NPM packages
-    npm install
+        
+        npm install
+
+
 Start Application  
+        
         npm start
