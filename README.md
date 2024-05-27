@@ -1,36 +1,16 @@
-A React Native app for Android to track daily water intake
 
-Table of Content
-    About the project
+=======
+# Expo Router Example
 
-        An app to track daily water intake made using Expo, React Native, Node , Express and Relational Database. 
+Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
 
-    Getting Started
+## 🚀 How to use
 
-        To get a local copy up and running follow these simple steps.
+```sh
+npx create-expo-app -e with-router
+```
 
-Prerequisites
-        You need these on your computer before you start
+## 📝 Notes
 
-            npm
-            node
-        
-Expo CLI
-       
-        npm install --global expo-cli
-
-
-Installation
-        
-        Clone the repo
-        git clone https://github.com/github_username/repo_name.git
-
-
-Install NPM packages
-        
-        npm install
-
-
-Start Application  
-        
-        node index.js
+- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+>>>>>>> 5edfeed600a4a4b6efd72c69d3a644cf72713f3f
