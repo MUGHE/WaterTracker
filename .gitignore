@@ -1,0 +1,20 @@
+# Common folders to ignore
+node_modules/
+vendor/
+
+# IDE/editor specific files
+.idea/
+.vscode/
+
+# Compiled files (if applicable)
+*.pyc
+*.class
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+
+# Testing results (optional)
+**/__tests__/__snapshots__/
